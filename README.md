@@ -1,16 +1,18 @@
-## Hi there 👋
+## Hi, I'm Sam Virolainen  👋
 
-<!--
-**samvirolainen/samvirolainen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Ph.D. in Immunology & Genetics | Scientist at AstraZeneca  
 
-Here are some ideas to get you started:
+🔬 Specializing in Statistical Genetics, Immunogenetics, and Translational Immunology 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💻 Passionate about GWAS, rare variant analysis, large-scale genomic data and biobank analyses, and applying these tools to complex diseases and drug developemnt 
+
+
+🧬 Research Interests
+
+- Complex Disease Genetics (Autoimmunity, Inflammatory Diseases)
+- Statistical Genetics (GWAS, Colocalization, Fine Mapping)
+- Integrative Multi-Omics Analysis
+- Translational Immunology (In vitro and in vivo models pre-clinical models) 
+- Biobank data analysis 
+
+
