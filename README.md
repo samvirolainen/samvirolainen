@@ -11,8 +11,9 @@
 
 - Complex Disease Genetics (Autoimmunity, Inflammatory Diseases)
 - Statistical Genetics (GWAS, Colocalization, Fine Mapping)
-- Integrative Multi-Omics Analysis
-- Translational Immunology (In vitro and in vivo models pre-clinical models) 
 - Biobank data analysis 
+- Integrative Multi-Omics Analysis
+- Translational Immunology (In vitro and in vivo pre-clinical disease models) 
+
 
 
