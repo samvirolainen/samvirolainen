@@ -1,6 +1,6 @@
 ## Hi, I'm Sam Virolainen  👋
 
-🎓 Ph.D. in Immunology & Genetics | Scientist at AstraZeneca  
+🎓 Ph.D. in Immunology & Genetics | Scientist at AstraZeneca 
 
 🔬 Specializing in Statistical Genetics, Immunogenetics, and Translational Immunology 
 
