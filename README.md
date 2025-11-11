@@ -4,7 +4,7 @@
 
 🔬 Specializing in Human Genetics, Multi-Omics Analysis, and Translational Immunology 
 
-💻 Passionate about using large-scale genomic and genetic data to dissect immune pathway biology and inform patient biomarker strategy in drug development 
+💻 Passionate about using large-scale genomic and genetic datasets to dissect immune pathway biology and inform patient biomarker strategy in drug development 
 
 
 🧬 Research Interests
