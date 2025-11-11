@@ -1,19 +1,18 @@
 ## Hi, I'm Sam Virolainen  👋
 
-🎓 Ph.D. in Immunology & Genetics | Scientist at AstraZeneca 
+🎓 Ph.D. in Immunology & Genetics | Scientist in Respiratory & Immunology @ AstraZeneca 
 
-🔬 Specializing in Statistical Genetics, Immunogenetics, and Translational Immunology 
+🔬 Specializing in Human Genetics, Multi-Omics Analysis, and Translational Immunology 
 
-💻 Passionate about GWAS, rare variant analysis, large-scale genomic data and biobank analyses, and applying these tools to complex diseases and drug developemnt 
+💻 Passionate about using large-scale genomic and genetic data to dissect immune pathway biology and inform patient biomarker strategy in drug development 
 
 
 🧬 Research Interests
 
-- Complex Disease Genetics (Autoimmunine & Inflammatory Diseases)
-- Statistical Genetics (GWAS, Colocalization, Fine Mapping)
-- Biobank data analysis 
-- Integrative Multi-Omics Analysis
-- Translational Immunology  
+- Complex Immune-Mediated Diseases: Inflammatory (SLE, Sjrogren's Syndrome, JIA, Systemic Sclerosis, IBD), Skin (Atopic Dermatitis), Respiratory (Asthma, COPD)
+- Human Genetics Analyses (GWAS, Rare Variant Analysis, Colocalization, Mendelian Randomization) 
+- Multi-Omics (Transcriptomic,Proteomic,Sptial) Analysis
+- Translational Immunology: Pre-clinical in vitro, in vivo, and ex vivo models to characterize targetable immune pathways and identify clinical biomarkers  
 
 
 
