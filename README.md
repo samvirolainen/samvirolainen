@@ -9,9 +9,9 @@
 
 🧬 Research Interests
 
-- Complex Immune-Mediated Diseases: Inflammatory (SLE, Sjrogren's Syndrome, JIA, Systemic Sclerosis, IBD), Skin (Atopic Dermatitis), Respiratory (Asthma, COPD)
+- Complex Immune-Mediated Diseases: Inflammatory (SLE, Sjögren's Syndrome, JIA, Systemic Sclerosis, IBD), Skin (Atopic Dermatitis), Respiratory (Asthma, COPD)
 - Human Genetics Analyses (GWAS, Rare Variant Analysis, Colocalization, Mendelian Randomization) 
-- Multi-Omics (Transcriptomic,Proteomic,Sptial) Analysis
+- Multi-Omics (Transcriptomic,Proteomic,Spatial) Analysis
 - Translational Immunology: Pre-clinical in vitro, in vivo, and ex vivo models to characterize targetable immune pathways and identify clinical biomarkers  
 
 
